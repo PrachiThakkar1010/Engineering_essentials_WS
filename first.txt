@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Adding more text
+=======
+I am changing first.txt
+>>>>>>> newBranch
+Adding more text
+I am changing first.txt
